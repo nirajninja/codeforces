@@ -3,7 +3,7 @@ using namespace std;
 #define ll long long
 
 
-class Graph{
+//class Graph{
     int V;
     list<int> *l;
     public:
